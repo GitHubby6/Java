@@ -2,6 +2,7 @@
 Name: Ifaz Alam
 Date: February 6, 2020
 Description: Determines the average of 5 grades
+Uses: For Loop, Scanner, and String Formatting
 */
 
 //imports Scanner class to read user input
