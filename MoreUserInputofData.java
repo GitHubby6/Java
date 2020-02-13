@@ -38,7 +38,7 @@ public class MoreUserInputofData {
 		System.out.print("Login: ");
 		String login = input.next();
 		
-		//Login
+		//GPA
 		System.out.print("GPA (0.0 - 4.0): ");
 		float gpa = input.nextFloat();
 		
