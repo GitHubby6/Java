@@ -43,8 +43,6 @@ public class MoreUserInputofData {
 		float gpa = input.nextFloat();
 		
 		//Prints summary of given information
-		System.out.printf("Your Information:\n\tLogin: %s\n\tID:    %d\n\tName:  %s, %s\n\tGPA:   %.2f\n\tGrade: %d", login, studentID, lastName, firstName , gpa, grade);
-		
+		System.out.printf("Your Information:\n\tLogin: %s\n\tID:    %d\n\tName:  %s, %s\n\tGPA:   %.2f\n\tGrade: %d", login, studentID, lastName, firstName , gpa, grade);	
 	}
-
 }
