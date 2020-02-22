@@ -40,9 +40,8 @@ public class miniReplaceAll {
 	}
 	  
 	//test case below (dont change):
-	public static void main(String[] args){
+	public static void main(String[] args) {
 		System.out.println(replace("abcabcabc","abc","<REPLACED>")); //<REPLACED><REPLACED><REPLACED>
-
   }
 }
 
